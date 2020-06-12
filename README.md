@@ -1,1 +1,3 @@
-# INFO2180 - Project 2 - The Fifteen Puzzle
+# The Fifteen Puzzle
+
+![GitHub Logo](/images_for_readme/15 initial.png)
